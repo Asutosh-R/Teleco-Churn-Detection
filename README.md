@@ -1,6 +1,6 @@
 # Teleco-Churn-Detection
 
-### This project aims to predict customer churn in the telecom industry using machine learning techniques. Customer churn occurs when customers stop using a company's services, and predicting it can help businesses take proactive steps to retain valuable customers.
+#### This project aims to predict customer churn in the telecom industry using machine learning techniques. Customer churn occurs when customers stop using a company's services, and predicting it can help businesses take proactive steps to retain valuable customers.
 
 The dataset used in this project contains information about customers, their demographics, account information, and services they use.
 
@@ -9,7 +9,7 @@ Target: Churn (Binary: 1 if the customer has churned, 0 otherwise).
 
 Below are some key visualization
 
-![download](https://github.com/user-attachments/assets/e0224cc4-d03d-4ee1-a6b0-52a95d99b386)
+
 
 
 ![download (1)](https://github.com/user-attachments/assets/dbab15f5-24b4-4303-9939-88dfc772c9ea)
