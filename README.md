@@ -15,10 +15,8 @@ Percentage of Male and Female
 ![download (1)](https://github.com/user-attachments/assets/dbab15f5-24b4-4303-9939-88dfc772c9ea)
 
 
-![download (2)](https://github.com/user-attachments/assets/0b4145c0-8fd4-4761-b1fe-4b0b376606da)!
-
 Churn distribution with different 
-[download (3)](https://github.com/user-attachments/assets/8829db45-92c8-4ea9-bab0-462a262830d2)![download (4)](https://github.com/user-attachments/assets/b38e5925-7ab3-4bb3-a1d7-4d10c27e7f7b)![download (5)](https://github.com/user-attachments/assets/f441e15b-67c6-4984-846b-5cb655741294)
+![download (4)](https://github.com/user-attachments/assets/b38e5925-7ab3-4bb3-a1d7-4d10c27e7f7b)![download (5)](https://github.com/user-attachments/assets/f441e15b-67c6-4984-846b-5cb655741294)
 
 
 ![download (7)](https://github.com/user-attachments/assets/190de18e-409e-4ec7-a4e4-ce821cf57b10)
