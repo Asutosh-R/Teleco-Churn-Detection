@@ -33,10 +33,10 @@ Below are some key visualization
   <table>
   <tr>
     <td>
-      <img src="![download (9)](https://github.com/user-attachments/assets/56afa97c-2bb4-45f0-b74d-37d7687cf82d) " alt="Graph 1" width="400"/>
+      img src="![download (9)](https://github.com/user-attachments/assets/56afa97c-2bb4-45f0-b74d-37d7687cf82d) 
     </td>
     <td>
-      <img src="![download (12)](https://github.com/user-attachments/assets/af39f1b8-110f-4cc3-94e8-53992c0c1d6a)" alt="Graph 2" width="400"/>
+      ![download (12)](https://github.com/user-attachments/assets/af39f1b8-110f-4cc3-94e8-53992c0c1d6a)
     </td>
   </tr>
 </table>
