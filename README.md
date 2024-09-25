@@ -30,14 +30,7 @@ Below are some key visualization
 
 * Density chart
 
-<div style="display: flex; justify-content: space-around;">
-  <a href="Before">
-    <img src="![download (9)](https://github.com/user-attachments/assets/56afa97c-2bb4-45f0-b74d-37d7687cf82d)" alt="Graph 1" width="400"/>
-  </a>
-  <a href="After">
-    <img src="![download (12)](https://github.com/user-attachments/assets/af39f1b8-110f-4cc3-94e8-53992c0c1d6a)" alt="Graph 2" width="400"/>
-  </a>
-</div>
+
 
 
 ![download (9)](https://github.com/user-attachments/assets/56afa97c-2bb4-45f0-b74d-37d7687cf82d)   ![download (12)](https://github.com/user-attachments/assets/af39f1b8-110f-4cc3-94e8-53992c0c1d6a)
