@@ -44,10 +44,13 @@ Below are some key visualization
 
 ### Machine learning algorithms predictions visualization
 
-* Support Vector Classifier Confusion Matrix 
+* Support Vector Classifier Confusion Matrix
+
+  
 ![download (15)](https://github.com/user-attachments/assets/12f328f9-3977-4257-938f-def15627ed33)
 
 * Random Forest Confusion Matrix and ROC Curve
+
 
 ![download (16)](https://github.com/user-attachments/assets/6dd7011d-13b0-4a3a-aebc-121ef0acae86)
 
@@ -56,15 +59,20 @@ Below are some key visualization
 ![download (17)](https://github.com/user-attachments/assets/8416e5ed-eded-4cf5-ad1f-e0c666f308a2)
 
 * Logistic Regression Confusion Matrix and ROC Curve
+  
 
 ![download (18)](https://github.com/user-attachments/assets/47cc5206-839b-4608-93b5-98c518af81d3)
 
 ![download (19)](https://github.com/user-attachments/assets/12615954-edb9-4451-857a-af6bac2ffba1)
 
-* Adaboost Classifier Confusion Matrix 
+* Adaboost Classifier Confusion Matrix
+
+  
 ![download (20)](https://github.com/user-attachments/assets/3ab3f671-3bb5-43e8-b27a-dd3b28282073)
 
 * Gradient Boosting Classifier Confusion Matrix
+
+  
 ![download (21)](https://github.com/user-attachments/assets/cdd3f3e5-9321-465d-aa65-ae4f27f204b9)
 
 
