@@ -28,6 +28,11 @@ Below are some key visualization
 
 ![download (8)](https://github.com/user-attachments/assets/80fd54d4-cc6b-4c89-b602-43884e9c8f85)
 
+
+
+![download(22)](https://github.com/user-attachments/assets/6aff108d-c489-4003-8c33-7b4630f0a10a)
+
+
 * Density chart
 
 
